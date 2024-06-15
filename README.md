@@ -3,6 +3,9 @@ Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenge
 
 https://www.youtube.com/watch?v=oBt53YbR9Kk
 
- - Fibonacci
-   - Recursive
-   - Memoization
+  - Fibonacci
+    - Recursive
+    - Memoization
+  - Gridtraveller
+    - Recursive
+    - Memoization
