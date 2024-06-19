@@ -9,9 +9,12 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk
   - Gridtraveller
     - Recursive
     - Memoization
-  - CanSum
+  - CanSum (Can you do this problem? (Decision problem)) 
     - Recursive
-    - Memoization- 
-  - HowSum
+    - Memoization 
+  - HowSum (How can you do this problem? (Combinatoric problem))
+    - Recursive
+    - Memoization
+  - BestSum (What is the best way to solve this problem? (Optimization problem))
     - Recursive
     - Memoization
