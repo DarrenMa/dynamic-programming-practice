@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk
   - BestSum (What is the best way to solve this problem? (Optimization problem))
     - Recursive
     - Memoization
+  - CanConstruct (Using strings)
+    - Recursive
+    - Memoization
