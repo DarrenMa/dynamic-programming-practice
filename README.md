@@ -24,3 +24,4 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk
   - CountConstruct
     - Recursive
     - Memoization
+  - AllConstruct (Exhaustive search for all combos)
