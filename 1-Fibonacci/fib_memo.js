@@ -1,4 +1,6 @@
 // fibonacci series using memoization
+// time: O(n) because each number in the sequence is calculated only once and then stored for future reference
+
 let count = 0;
 const fib = ((n, memo = {}) => {
 

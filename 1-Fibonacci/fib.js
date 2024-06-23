@@ -1,4 +1,6 @@
 // fibonacci series using recursion
+// time: O(2^n) because it recalculates the same values multiple times
+
 let count = 0;
 const fib = ((n) => {
 
