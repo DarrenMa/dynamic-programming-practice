@@ -1,5 +1,4 @@
-# dynamic-programming-practice
-Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges
+# Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges
 
 https://www.youtube.com/watch?v=oBt53YbR9Kk
 
@@ -19,6 +18,14 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk
     6. CanConstruct (Using strings)
     7. CountConstruct
     8. AllConstruct (Exhaustive search for all combos)
+
+## General advice
+
+1. **Notice overlapping problems**
+2. **What is the smallest trivial input**
+3. **Think recursively to use memoization**
+4. **Think iterively to use tabulation**
+5. **Draw your stategy first!!!**
 
 
 ## Memoizaiton vs Tabulation
